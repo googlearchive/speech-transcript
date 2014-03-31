@@ -2,7 +2,8 @@
   "name": "speech-transcript",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "speech-mic": "Polymer/speech-mic#master"
-  }
+    "polymer": "Polymer/polymer#0.2.2",
+    "speech-mic": "Polymer/speech-mic#0.2.2"
+  },
+  "version": "0.2.2"
 }
